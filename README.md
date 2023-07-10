@@ -30,9 +30,12 @@ def user_data():
     ]
 
     hobbies = [
-        "Music - Rock/Alternative",
+        "Music - Rock | Alternative",
+        "Series - Dark",
+        "Movies - Interestellar"
+        "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle"
         "Retro Games",
-        "Series",
+        
     ]
 
 user_data()
