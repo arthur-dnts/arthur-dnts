@@ -25,7 +25,7 @@ def user_data():
         "JavaScript",
     ]
 
-    currently_work_on = [
+    currently_working_on = [
         "Simple Games HTML",
     ]
 
