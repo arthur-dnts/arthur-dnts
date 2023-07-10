@@ -17,3 +17,18 @@
     <img src="assets/icons/thunder.png" alt="thunder-icon" height="25px" width="25px"> Fun fact: I like to sing when I'm alone<br>
   </h3>
 </div>
+<div align="center">
+  <h1>
+    <img src="assets/icons/coffee-cup.png" alt="coffee-cup-icon" height="45px" width="45px"> Tools and languages that I use
+  </h1>
+</div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64px" width="64px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64px" width="64px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64px" width="64px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64px" width="64px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="64px" width="64px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64px" width="64px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="64px" width="64px">
+  
+</div>
