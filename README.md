@@ -1,5 +1,6 @@
 <div>
-  <img src="assets/banner/starcat-profile-banner.gif" alt="profile-banner">
+  <img src="https://art.pixilart.com/cb97514d85c12ba.gif" alt="profile-banner">
+  <p>How to dominate the world?</p>
 </div>
 <div align="center">
   <h1>
@@ -21,8 +22,10 @@
     <img src="assets/icons/www.png" alt="www-icon" height="45px" width="45px"> You can find me on:
   </h1>
 </div>
-<div>
+<div align="center">
   <h3>
-    
+    <a href="https://www.youtube.com/channel/UCMQ_SKcjNDYao6mE7_5L3PA"><img src="assets/icons/youtube.png" alt="youtube-icon" height="64px" width="64px"></a>
+    <a href="https://www.instagram.com/o_jovem_de_oculos/"><img src="assets/icons/instagram.png" alt="instagram-icon" height="64px" width="64px"></a>
+    <a href="https://steamcommunity.com/id/_ALpHaZ/"><img src="assets/icons/steam-logo.png" alt="steam-icon" height="64px" width="64px"></a>
   </h3>
 </div>
