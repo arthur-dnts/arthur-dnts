@@ -42,7 +42,7 @@ user_data()
   <h1>🌐 You can also find me on...</h1>
 </div>
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCMQ_SKcjNDYao6mE7_5L3PA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" height="64px" width="64px"></a>
+  <a href="https://www.youtube.com/channel/UCMQ_SKcjNDYao6mE7_5L3PA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" target="_blank" height="64px" width="64px"></a>
   <a href="https://www.instagram.com/o_jovem_de_oculos/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height="64px" width="64px"></a>
   <a href="https://steamcommunity.com/id/_ALpHaZ/"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-tile.svg" height="64px" width="64px"></a>
   <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" title="lnl_alpha" height="64px" width="64px">
