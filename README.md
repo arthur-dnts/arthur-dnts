@@ -17,13 +17,3 @@
     <img src="assets/icons/thunder.png" alt="thunder-icon" height="25px" width="25px"> Fun fact: I like to sing when I'm alone<br>
   </h3>
 </div>
-<div align="center">
-  <h1>
-    <img src="assets/icons/www.png" alt="www-icon" height="45px" width="45px"> You can also find me on:
-  </h1>
-</div>
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCMQ_SKcjNDYao6mE7_5L3PA"><img src="assets/icons/youtube.png" alt="youtube-icon" height="64px" width="64px"></a>
-  <a href="https://www.instagram.com/o_jovem_de_oculos/"><img src="assets/icons/instagram.png" alt="instagram-icon" height="64px" width="64px"></a>
-  <a href="https://steamcommunity.com/id/_ALpHaZ/"><img src="assets/icons/steam-logo.png" alt="steam-icon" height="64px" width="64px"></a>
-</div>
