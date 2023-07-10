@@ -10,7 +10,7 @@
 def user_data():
     name = "Arthur"
     age = 18
-    education = "Bachelor's Degree in English Education - UFCG - 2023/" # Currently work on
+    education = "Bachelor's Degree in English Education - UFCG - 2023/" # Currently working on
 
     interests = [
         "Web Scraping",
