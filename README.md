@@ -35,7 +35,6 @@ def user_data():
         "Movies - Interestellar"
         "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle"
         "Retro Games",
-        
     ]
 
 user_data()
