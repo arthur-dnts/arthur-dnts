@@ -3,13 +3,11 @@
   <p>"How to dominate the world?"</p>
 </div>
 <div align="center">
-  <h1>
-    <img src="assets/icons/coffee-cup.png" alt="coffee-cup-icon" height="45px" width="45px"> Hello and Welcome to my profile!
-  </h1>
+  <h1>☕ Hello and Welcome to my profile!</h1>
 </div>
 
 ```python
-def capture_data():
+def user_data():
     name = "Arthur"
     age = 18
     education = "Bachelor's Degree in English Education - UFCG - 2023/" # Currently work on
@@ -36,12 +34,22 @@ def capture_data():
         "Retro Games",
         "Series",
     ]
+
+user_data()
 ```
 
 <div align="center">
-  <h1>
-    <img src="assets/icons/coffee-cup.png" alt="coffee-cup-icon" height="45px" width="45px"> Tools and languages that I use
-  </h1>
+  <h1>🌐 You can also find me on...</h1>
+</div>
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCMQ_SKcjNDYao6mE7_5L3PA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" height="64px" width="64px"></a>
+  <a href="https://www.instagram.com/o_jovem_de_oculos/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height="64px" width="64px"></a>
+  <a href="https://steamcommunity.com/id/_ALpHaZ/"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-tile.svg" height="64px" width="64px"></a>
+  <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" title="lnl_alpha" height="64px" width="64px">
+</div>
+
+<div align="center">
+  <h1>💻 Tools and languages that I use</h1>
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64px" width="64px">
@@ -49,6 +57,7 @@ def capture_data():
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64px" width="64px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64px" width="64px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="64px" width="64px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="64px" width="64px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64px" width="64px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="64px" width="64px">
 </div>
