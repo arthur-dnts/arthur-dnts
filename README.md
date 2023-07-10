@@ -51,7 +51,7 @@ user_data()
 </div>
 
 <div align="center">
-  <h1>💻 Tools and languages that I use</h1>
+  <h1>💻 Languages and tools that I use</h1>
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64px" width="64px">
