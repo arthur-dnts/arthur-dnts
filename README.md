@@ -65,3 +65,8 @@ user_data()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="64px" width="64px">
 </div>
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LonelyALphaz&show_icons=true&theme=tokyonight" height="200px" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyAlpHaz&layout=compact&theme=tokyonight" height="200px" width="400px">
+</p>
