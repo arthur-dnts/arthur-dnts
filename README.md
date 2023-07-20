@@ -1,10 +1,13 @@
 <div>
   <img src="https://art.pixilart.com/cb97514d85c12ba.gif" alt="profile-banner">
-  <p>"How to dominate the world?"</p>
+  <p><strong>"How to dominate the world?"</strong></p>
 </div>
 <div align="center">
-  <h1>☕ Hello and Welcome to my profile!</h1>
+  <h1>
+  <img src="https://i.imgur.com/fsOY5LE.gif" width="50px"> Hello and Welcome to my profile!
+  </h1>
 </div>
+
 
 ```python
 def user_data():
@@ -39,10 +42,12 @@ def user_data():
 
 user_data()
 ```
-
 <div align="center">
-  <h1>🌐 You can also find me on...</h1>
+  <h1>
+  <img src="https://i.imgur.com/bV7Z20x.gif" width="50px"> You can also find me on...
+  </h1>
 </div>
+
 <div align="center">
   <a href="https://www.youtube.com/channel/UCMQ_SKcjNDYao6mE7_5L3PA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" height="64px" width="64px"></a>
   <a href="https://www.instagram.com/o_jovem_de_oculos/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height="64px" width="64px"></a>
@@ -51,7 +56,9 @@ user_data()
 </div>
 
 <div align="center">
-  <h1>💻 Languages and tools that I use</h1>
+  <h1>
+    <img src="https://i.imgur.com/72GslRm.gif" width="50px"> Languages and tools that I use
+  </h1>
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64px" width="64px">
