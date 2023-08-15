@@ -13,7 +13,10 @@
 def user_data():
     name = "Arthur"
     age = 18
-    education = "English Language - UFCG - 2023/" # Currently working on
+
+    education = [
+        "English Language - UFCG - 2023/", # Currently working on
+    ]
 
     interests = [
         "Web Scraping",
