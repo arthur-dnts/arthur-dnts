@@ -17,7 +17,7 @@ def user_data():
     interests = [
         "Web Scraping",
         "Mobile Development",
-        "Artificial Inteligence"
+        "Artificial Inteligence",
         "Automation",
         "UI/UX",
     ]
@@ -34,8 +34,8 @@ def user_data():
     hobbies = [
         "Musics - Rock | Alternative",
         "Series - Dark",
-        "Movies - Interestellar"
-        "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle"
+        "Movies - Interestellar",
+        "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle",
         "Retro Games",
     ]
 
