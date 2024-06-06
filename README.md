@@ -8,7 +8,7 @@
   </h1>
 </div>
 
-<img align="right" src="https://i.pinimg.com/originals/a9/b7/52/a9b7522224676f51d9610141b5e405be.gif" width="400px" height="550px" alt="side-banner">
+<img align="right" src="https://i.pinimg.com/originals/a9/b7/52/a9b7522224676f51d9610141b5e405be.gif" alt="side-banner">
       
 ```python
 def user_data():
