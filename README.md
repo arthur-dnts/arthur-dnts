@@ -1,6 +1,6 @@
-<div>
-  <img src="https://art.pixilart.com/cb97514d85c12ba.gif" alt="profile-banner">
-  <p><strong>"How to dominate the world?"</strong></p>
+<div align="center">
+  <img width="1280px" height="720px" src="https://i.pinimg.com/originals/15/70/84/157084787880c1ead98ec92332da7094.gif" alt="profile-banner">
+  <p><b>"The end is the beginning and the beginning is the end."</b></p>
 </div>
 <div align="center">
   <h1>
@@ -9,6 +9,8 @@
 </div>
 
 
+<img align="right" src="https://i.pinimg.com/originals/a9/b7/52/a9b7522224676f51d9610141b5e405be.gif" width="550px" height="620px" alt="side-banner">
+      
 ```python
 def user_data():
     name = "Arthur Dantas"
