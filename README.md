@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1000px" height=550px" src="https://i.pinimg.com/originals/15/70/84/157084787880c1ead98ec92332da7094.gif" alt="profile-banner">
+  <img width="900px" height=450px" src="https://i.pinimg.com/originals/15/70/84/157084787880c1ead98ec92332da7094.gif" alt="profile-banner">
   <p><b>"The end is the beginning and the beginning is the end."</b></p>
 </div>
 <div align="center">
@@ -8,7 +8,6 @@
   </h1>
 </div>
 
-<img height="550px" width="350px" align="right" src="https://i.pinimg.com/originals/5e/ea/2b/5eea2b92e254e5d704e748fc5eecefaa.gif" alt="side-banner">
       
 ```python
 def user_data():
