@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/17/fc/fe/17fcfe1fe83a853c29026e3c82693bfe.gif" alt="profile-banner">
+  <img width="1280px" src="https://i.pinimg.com/originals/17/fc/fe/17fcfe1fe83a853c29026e3c82693bfe.gif" alt="profile-banner">
   <p><b>"The end is the beginning and the beginning is the end."</b></p>
 </div>
 <div align="center">
