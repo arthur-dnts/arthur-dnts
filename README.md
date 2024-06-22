@@ -73,8 +73,12 @@ user_data()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="64px" height="64px">
 </div>
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LonelyALphaz&show_icons=true&theme=tokyonight" height="200px" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyAlpHaz&layout=compact&theme=tokyonight" height="200px" width="400px">
-</p>
+<div align="center">
+  <h1>Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=LonelyALphaz&show_icons=true&theme=github_dark" height="200px" width="480px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyAlpHaz&layout=compact&theme=github_dark" height="200px" width="400px">
+</div>
+
+
+
+
