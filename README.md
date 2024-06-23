@@ -28,7 +28,7 @@ def user_data():
     ]
 
     currently_working_on = [
-        "weather-app"
+        ""
     ]
 
     hobbies = [
