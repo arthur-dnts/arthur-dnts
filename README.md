@@ -8,7 +8,8 @@
   </h1>
 </div>
 
-      
+<img align="right" width="468px" src="https://i.pinimg.com/originals/76/bc/57/76bc5791e386590f8a4b51f2a08fece1.gif">
+
 ```python
 def user_data():
     name = "Arthur Dantas"
@@ -41,6 +42,7 @@ def user_data():
 
 user_data()
 ```
+
 <div align="center">
   <h1>
   <img src="https://i.imgur.com/bV7Z20x.gif" width="50px"> You can also find me on...
