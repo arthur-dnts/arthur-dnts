@@ -50,10 +50,9 @@ user_data()
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCMQ_SKcjNDYao6mE7_5L3PA" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="64px" width="64px"></a>
   <a href="https://www.instagram.com/dantaas.arthur/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="64px" width="64px"></a>
+  <a href="https://www.linkedin.com/in/dantas-arthur" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="64px" width="64px"></a>
   <a href="https://steamcommunity.com/id/_ALpHaZ/" target="_blank"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" height="64px" width="64px"></a>
-  <img title="lnl_alpha" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" height="64px" width="64px">
 </div>
 
 <div align="center">
