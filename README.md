@@ -76,8 +76,8 @@ user_data()
 
 <div align="center">
   <h1>Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=LonelyALphaz&show_icons=true&theme=github_dark" height="200px" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonelyAlpHaz&layout=compact&theme=github_dark" height="200px" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=dantas-arthur&show_icons=true&theme=github_dark" height="200px" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantas-arthur&layout=compact&theme=github_dark" height="200px" width="400px">
 </div>
 
 
