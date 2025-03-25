@@ -45,18 +45,6 @@ user_data()
 
 <div align="center">
   <h1>
-  <img src="https://i.imgur.com/bV7Z20x.gif" width="50px"> You can also find me on...
-  </h1>
-</div>
-
-<div align="center">
-  <a href="https://www.instagram.com/arthurwth/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="64px" width="64px"></a>
-  <a href="https://www.linkedin.com/in/dantas-arthur" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="64px" width="64px"></a>
-  <a href="https://steamcommunity.com/id/_ALpHaZ/" target="_blank"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" height="64px" width="64px"></a>
-</div>
-
-<div align="center">
-  <h1>
     <img src="https://i.imgur.com/72GslRm.gif" width="50px"> Languages and Tools
   </h1>
 </div>
@@ -72,6 +60,18 @@ user_data()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="64px" width="64px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="64px" width="64px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="64px" height="64px">
+</div>
+
+<div align="center">
+  <h1>
+  <img src="https://i.imgur.com/bV7Z20x.gif" width="50px"> You can also find me on...
+  </h1>
+</div>
+
+<div align="center">
+  <a href="https://www.instagram.com/arthurwth/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="64px" width="64px"></a>
+  <a href="https://www.linkedin.com/in/dantas-arthur" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="64px" width="64px"></a>
+  <a href="https://steamcommunity.com/id/_ALpHaZ/" target="_blank"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" height="64px" width="64px"></a>
 </div>
 
 <div align="center">
