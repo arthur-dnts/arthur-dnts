@@ -33,7 +33,7 @@ def user_data():
     ]
 
     hobbies = [
-        "Musics - Rock | Alternative",
+        "Music - Rock | Alternative",
         "Series - Dark",
         "Movies - Interestellar",
         "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle",
