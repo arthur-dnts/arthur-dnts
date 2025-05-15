@@ -48,18 +48,25 @@ user_data()
     <img src="https://i.imgur.com/72GslRm.gif" width="50px"> Languages and Tools
   </h1>
 </div>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64px" height="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64px" height="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="64px" height="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="64px" height="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="64px" height="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64px" height="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="64px" width="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64px" height="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="64px" width="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="64px" width="64px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="64px" height="64px">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Handlebars.js-d46926?logo=handlebarsdotjs&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" height="35px">
+  
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7?logo=vsc&logoColor=white&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Zorin-15A6F0?logo=zorin&logoColor=fff&style=for-the-badge" height="35px">
 </div>
 
 <div align="center">
@@ -69,17 +76,18 @@ user_data()
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/arthurwth/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="64px" width="64px"></a>
-  <a href="https://www.linkedin.com/in/dantas-arthur" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="64px" width="64px"></a>
-  <a href="https://steamcommunity.com/id/_ALpHaZ/" target="_blank"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" height="64px" width="64px"></a>
+  <a href="mailto:dantas.arthur.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35px"></a>
+  <a href="https://www.instagram.com/arthurwth/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge" height="35px"></a>
+  <a href="https://www.linkedin.com/in/dantas-arthur" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" height="35px"></a>
+  <a href="https://steamcommunity.com/id/_ALpHaZ/" target="_blank"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge" height="35px"></a>
 </div>
 
 <div align="center">
   <h1>
     <img src="https://i.pinimg.com/originals/ca/1d/9e/ca1d9e9ee0036ff2d88cdd8d895f5244.gif" width="50px"> Stats
   </h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur-dnts&show_icons=true&theme=github_dark" height="200px" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-dnts&layout=compact&theme=github_dark" height="200px" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthur-dnts&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="435px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-dnts&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
 </div>
 
 
