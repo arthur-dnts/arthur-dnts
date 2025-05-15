@@ -45,7 +45,7 @@ user_data()
 
 <div align="center">
   <h1>
-    <img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Languages
+    <img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Languages and Frameworks
   </h1>
 </div>
 
@@ -63,7 +63,7 @@ user_data()
 
 <div align="center">
   <h1>
-    <img src="https://i.imgur.com/72GslRm.gif" width="64px"> Tools
+    <img src="https://i.imgur.com/72GslRm.gif" width="64px"> Tools, Programs and OS
   </h1>
 </div>
 
