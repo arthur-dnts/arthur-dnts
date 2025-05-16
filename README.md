@@ -76,7 +76,7 @@ user_data()
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Zorin%20OS-15A6F0?logo=zorin&logoColor=fff&style=for-the-badge" height="35px">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows%2011-0079d5?logo=microsoft-windows-22-logo-svgrepo-com&logoColor=white&style=for-the-badge" height="35px">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0079d5?logo=microsoft-windows-22-logo-svgrepo-com&logoColor=white&style=for-the-badge" height="35px">
 </div>
 
 <div align="center">
