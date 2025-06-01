@@ -24,7 +24,7 @@ def user_data():
     ]
 
     currently_working_on = [
-      "..."
+        "..."
     ]
 
     currently_learning = [
