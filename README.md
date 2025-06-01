@@ -23,6 +23,10 @@ def user_data():
         "UI/UX",
     ]
 
+    currently_working_on = [
+      "..."
+    ]
+
     currently_learning = [
         "Web Development with HTML5 and CSS3",
         "JavaScript",
