@@ -28,10 +28,6 @@ def user_data():
         "JavaScript",
     ]
 
-    currently_working_on = [
-        "PomoTimer - pomotimer-br.vercel.app"
-    ]
-
     hobbies = [
         "Music - Rock | Alternative",
         "Series - Dark",
