@@ -72,6 +72,7 @@ user_data()
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge" height="35px">
@@ -88,7 +89,6 @@ user_data()
 <div align="center">
   <a href="mailto:dantas.arthur.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35px"></a>
   <a href="https://www.instagram.com/arthurwth/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge" height="35px"></a>
-  <a href="https://www.linkedin.com/in/dantas-arthur" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" height="35px"></a>
   <a href="https://steamcommunity.com/id/_ALpHaZ/" target="_blank"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge" height="35px"></a>
 </div>
 
