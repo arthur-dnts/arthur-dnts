@@ -23,21 +23,20 @@ def user_data():
         "UI/UX",
     ]
 
-    currently_working_on = [
-        "..."
+    education = [
+        "Computer engineering - IFPB 0/10"
     ]
 
     currently_learning = [
-        "Web Development with HTML5 and CSS3",
-        "JavaScript",
+        "..."
     ]
 
     hobbies = [
-        "Music - Rock | Alternative",
-        "Series - Dark",
-        "Movies - Interestellar",
+        "Music - Heavy Metal | Alternative",
+        "Series - Dark | Rick and Morty",
+        "Movies - Interestellar | The Pearl of Death",
         "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle",
-        "Retro Games",
+        "Retro Games | Emulation",
     ]
 
 user_data()
@@ -89,7 +88,6 @@ user_data()
 <div align="center">
   <a href="mailto:dantas.arthur.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35px"></a>
   <a href="https://www.instagram.com/arthurwth/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge" height="35px"></a>
-  <a href="https://steamcommunity.com/id/_ALpHaZ/" target="_blank"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge" height="35px"></a>
 </div>
 
 <div align="center">
