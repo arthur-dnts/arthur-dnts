@@ -36,7 +36,7 @@ def user_data():
         "Series - Dark | Rick and Morty",
         "Movies - Interestellar | The Pearl of Death",
         "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle",
-        "Retro Games | Emulation",
+        "Retro Games",
     ]
 
 user_data()
