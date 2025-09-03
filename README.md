@@ -34,7 +34,7 @@ def user_data():
     hobbies = [
         "Music - Heavy Metal | Alternative",
         "Series - Dark | Rick and Morty",
-        "Movies - Interestellar | The Pearl of Death",
+        "Movies - Interstellar | The Pearl of Death",
         "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle",
         "Retro Games",
     ]
