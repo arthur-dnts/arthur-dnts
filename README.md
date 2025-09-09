@@ -44,7 +44,7 @@ user_data()
 
 <div align="center">
   <h1>
-    <img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Languages and Frameworks
+    <img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Programming Languages and Frameworks
   </h1>
 </div>
 
@@ -72,6 +72,7 @@ user_data()
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge" height="35px">
@@ -97,7 +98,3 @@ user_data()
   <img src="https://github-readme-stats.vercel.app/api?username=arthur-dnts&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="435px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-dnts&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
 </div>
-
-
-
-
