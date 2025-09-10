@@ -59,7 +59,6 @@ user_data()
   <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" height="35px">
 </div>
 
-
 <div align="center">
   <h1>
     <img src="https://i.imgur.com/72GslRm.gif" width="64px"> Tools, Programs and OS
