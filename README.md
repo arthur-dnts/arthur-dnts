@@ -75,7 +75,7 @@ user_data()
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=fff&style=for-the-badge" height="35px">
-  <img src="https://img.shields.io/badge/Zorin%20OS-15A6F0?logo=zorin&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" height="35px">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0079d5?logo=microsoft-windows-22-logo-svgrepo-com&logoColor=white&style=for-the-badge" height="35px">
 </div>
 
@@ -87,7 +87,6 @@ user_data()
 
 <div align="center">
   <a href="mailto:dantas.arthur.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35px"></a>
-  <a href="https://www.instagram.com/arthurwth/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge" height="35px"></a>
 </div>
 
 <div align="center">
