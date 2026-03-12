@@ -17,18 +17,18 @@ def user_data():
 
     interests = [
         "Web Scraping",
-        "Mobile Development",
+        "TUI/CLI Programs",
         "Artificial Inteligence",
         "Automation",
         "UI/UX",
     ]
 
     education = [
-        "Computer engineering - IFPB 1/10"
+        "Computer Engineering - IFPB 1/10"
     ]
 
     currently_learning = [
-        "..."
+        "C programming language"
     ]
 
     hobbies = [
@@ -55,7 +55,6 @@ user_data()
   <img src="https://custom-icon-badges.demolab.com/badge/CSS3-0079d5?logo=css3-logo&logoColor=white&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" height="35px">
-  <img src="https://img.shields.io/badge/Handlebars.js-d46926?logo=handlebarsdotjs&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" height="35px">
 </div>
 
