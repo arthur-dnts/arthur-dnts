@@ -24,7 +24,7 @@ def user_data():
     ]
 
     education = [
-        "Computer Engineering - IFPB 1/10"
+        "Computer Engineering - IFPB 2/10"
     ]
 
     currently_learning = [
