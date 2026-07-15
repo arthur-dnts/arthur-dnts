@@ -15,20 +15,20 @@ def user_data():
     name = "Arthur Dantas"
     age = 21
 
-    interests = [
-        "Web Scraping",
-        "TUI/CLI Programs",
-        "Artificial Inteligence",
-        "Automation",
-        "UI/UX",
-    ]
-
     education = [
         "Computer Engineering - IFPB 2/10"
     ]
 
     currently_learning = [
         "C programming language"
+    ]
+
+    interests = [
+        "Web Scraping",
+        "TUI/CLI Programs",
+        "Artificial Inteligence",
+        "Automation",
+        "UI/UX",
     ]
 
     hobbies = [
@@ -50,11 +50,10 @@ user_data()
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://custom-icon-badges.demolab.com/badge/C-00599c?logo=c_programming_language_alt&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://custom-icon-badges.demolab.com/badge/CSS3-0079d5?logo=css3-logo&logoColor=white&style=for-the-badge" height="35px">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" height="35px">
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" height="35px">
   <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" height="35px">
 </div>
 
