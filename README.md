@@ -1,7 +1,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img width="900px" src="black-hole.gif" alt="profile-banner"></td>
+      <td><img width="800px" src="black-hole.gif" alt="profile-banner"></td>
     </tr>
   </table>
   <p><b>"The end is the beginning and the beginning is the end."</b></p>
@@ -52,7 +52,7 @@
   </td>
 
   <td width="40%" align="center"> 
-  <img src="side-black-hole.gif" width="370"/>
+  <img src="side-black-hole.gif" width="327"/>
   </td>
 </tr>
 </table>
