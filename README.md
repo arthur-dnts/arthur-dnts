@@ -1,5 +1,9 @@
 <div align="center">
-  <img width="900px" src="black-hole.gif" alt="profile-banner">
+  <table>
+    <tr>
+      <td><img width="900px" src="black-hole.gif" alt="profile-banner"></td>
+    </tr>
+  </table>
   <p><b>"The end is the beginning and the beginning is the end."</b></p>
 </div>
 <div align="center">
@@ -8,21 +12,24 @@
   </h1>
 </div>
 
-<img align="right" width="327px" src="side-black-hole.gif">
+<table align="center">
+  <tr>
 
-```python
-def user_data():
+  <td width="60%" valign="center">
+    
+  ```python
+  def user_data():
     name = "Arthur Dantas"
     age = 21
-
+    
     education = [
         "Computer Engineering - IFPB 2/10"
     ]
-
+    
     currently_learning = [
-        "C programming language"
+        "C programming language and Java"
     ]
-
+    
     interests = [
         "Web Scraping",
         "TUI/CLI Programs",
@@ -30,7 +37,7 @@ def user_data():
         "Automation",
         "UI/UX",
     ]
-
+    
     hobbies = [
         "Music - Heavy Metal | Alternative",
         "Series - Dark | Rick and Morty",
@@ -38,9 +45,17 @@ def user_data():
         "Books - J.R.R. Tolkien | Sir. Arthur C. Doyle",
         "Retro Games",
     ]
+    
+  user_data()
+  ```
 
-user_data()
-```
+  </td>
+
+  <td width="40%" align="center"> 
+  <img src="side-black-hole.gif" width="370"/>
+  </td>
+</tr>
+</table>
 
 <div align="center">
   <h1>
@@ -90,6 +105,12 @@ user_data()
   <h1>
     <img src="https://i.pinimg.com/originals/ca/1d/9e/ca1d9e9ee0036ff2d88cdd8d895f5244.gif" width="64px"> Github Stats
   </h1>
+  <table>
+  <tr>
+  <td>
   <img src="https://github-readme-stats-one-rho-88.vercel.app/api?username=arthur-dnts&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="435px">
   <img src="https://github-readme-stats-one-rho-88.vercel.app/api/top-langs/?username=arthur-dnts&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
+  </td>
+  </tr>
+  </table>
 </div>
